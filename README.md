@@ -1,2 +1,2 @@
-# mySoftStore
-软件仓库存放
+# mySoft
+存放软件的仓库
